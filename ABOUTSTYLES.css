@@ -1,0 +1,31 @@
+
+body {
+  background-image: url(ABOUT/background_image.jpg);
+  background-size: cover;
+}
+
+
+.ABOUT {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 50px;
+  color: rgb(24, 15, 4);
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-shadow: 2px 2px 5px rgb(86, 73, 58);
+ 
+
+}
+
+
+.desc {
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: rgb(35, 23, 6);
+  text-shadow: 2px 2px 5px rgb(86, 73, 58);
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+
+}
