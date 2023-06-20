@@ -1,4 +1,5 @@
 
+
 body {
   background-image: url(ABOUT/background_image.jpg);
   background-size: cover;
@@ -28,4 +29,41 @@ body {
   margin-right: auto;
   width: 500px;
 
+}
+
+
+.back {
+  display: block;
+color: rgb(3, 1, 1);
+background-color: rgb(240, 121, 47);
+border-color: rgb(120, 56, 21);
+border-width: 3px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+box-shadow: 10px 10px 10px 10px(rgb(33, 33, 33));
+border-radius: 50px;
+padding: 10px;
+margin-top: 18px;
+margin-left: 10px;
+font-size: 19px;
+transition: background-color 1s;
+transition: padding 0.2s;
+min-width: 100px;
+}
+
+.back:hover {
+  display: block;
+color: rgb(3, 1, 1);
+background-color: rgb(255, 219, 197);
+border-color: rgb(242, 151, 103);
+border-width: 3px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+box-shadow: 10px 10px 10px 10px(rgb(33, 33, 33));
+border-radius: 50px;
+padding: 13px;
+margin-top: 18px;
+margin-left: 10px;
+font-size: 19px;
+transition: background-color 1s;
+transition: padding 0.2s;
+min-width: 100px;
 }
